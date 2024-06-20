@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrollViewTestRepo", "ScrollViewTestRepo\ScrollViewTestRepo.csproj", "{985E835F-7520-4F6F-9268-18D95E0D3EEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{985E835F-7520-4F6F-9268-18D95E0D3EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{985E835F-7520-4F6F-9268-18D95E0D3EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{985E835F-7520-4F6F-9268-18D95E0D3EEB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{985E835F-7520-4F6F-9268-18D95E0D3EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{985E835F-7520-4F6F-9268-18D95E0D3EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{985E835F-7520-4F6F-9268-18D95E0D3EEB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {844483BC-7F29-4685-A732-AC7F1612258B}
+	EndGlobalSection
+EndGlobal
